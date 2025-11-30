@@ -1,0 +1,9 @@
+INFO 2025-10-10 09:10:12 Spark context initialized
+INFO 2025-10-10 09:10:15 Loading configuration settings
+INFO 2025-10-10 09:10:40 Starting streaming job
+WARN 2025-10-10 09:11:05 Stream batch delayed by 15 seconds
+ERROR 2025-10-10 09:11:30 Failed to connect to Kafka topic
+INFO 2025-10-10 09:12:00 Attempting reconnection
+INFO 2025-10-10 09:12:20 Stream batch processed
+WARN 2025-10-10 09:12:45 High CPU usage detected
+INFO 2025-10-10 09:13:10 Streaming job finished

@@ -1,0 +1,8 @@
+id|customer_name|product|quantity|price|remarks
+1|John Doe|"Laptop, 16GB RAM"|2|85000|"Delivered on time"
+2|Jane Smith|"Smartphone, 128GB"|1|55000|"Customer said ""excellent"""
+3|Bob Lee||3|1200|"NULL"
+4|Alice Wong|"Keyboard"||2500|"Missing quantity"
+5||"Monitor, 27-inch"|2||"No price info"
+6|Tom Brown|"Mouse"|5|700|"Delivered, no issues"
+7|Mark Davis|"USB Cable"|2|150|""

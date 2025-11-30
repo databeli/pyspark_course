@@ -1,0 +1,9 @@
+INFO 2025-10-10 08:01:23 Starting Spark application
+INFO 2025-10-10 08:01:25 Reading input files from /data/input
+WARN 2025-10-10 08:02:01 Memory usage is high: 75%
+INFO 2025-10-10 08:02:30 Processing batch 1
+ERROR 2025-10-10 08:03:05 Task failed for partition 3
+INFO 2025-10-10 08:03:20 Retrying task
+INFO 2025-10-10 08:03:45 Batch 1 processed successfully
+WARN 2025-10-10 08:04:10 Disk usage approaching limit
+INFO 2025-10-10 08:04:50 Spark application finished
