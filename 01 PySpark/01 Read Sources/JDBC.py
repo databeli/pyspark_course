@@ -2,9 +2,9 @@
 from pyspark.sql import SparkSession
 
 # JDBC connection properties
-jdbc_url = "jdbc:databricks://dbc-3f1c04d0-60d3.cloud.databricks.com:443/default;transportMode=http;ssl=1;AuthMech=3;httpPath=/sql/1.0/warehouses/ac27879dd8a7975e;"
+jdbc_url = "jdbc:databricks://<your url>:443/default;transportMode=http;ssl=1;AuthMech=3;httpPath=/sql/1.0/warehouses/ac27879dd8a7975e;"
 
-access_token = "dapi5a37ec288ed16b28e613e5bd00a24869"
+access_token = "Your Token"
 
 # SQL query or table
 query = "(SELECT * FROM samples.bakehouse.sales_franchises LIMIT 100) AS t"
